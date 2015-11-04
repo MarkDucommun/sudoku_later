@@ -1,4 +1,4 @@
-require_relative '../board'
+require_relative '../lib/board'
 
 describe Board do
   it 'must be initialized with a string with N2xN2 length' do
